@@ -56,6 +56,6 @@ redis-server
 ```bash
 node index.js
 ```
-
+### You can test it using postman
 
 
